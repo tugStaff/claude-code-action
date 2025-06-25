@@ -1,3 +1,10 @@
 node_modules
 
 **/.claude/settings.local.json
+
+# misc
+.DS_Store
+*.pem
+
+# vscode
+.vscode/*
